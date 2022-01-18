@@ -1,0 +1,64 @@
+.heading {
+     
+    background-color: brown;
+    text-align: center;
+    color: chartreuse;
+   
+ }
+ .main{
+   display: flex;
+ }
+ @media screen and (max-width: 480px)
+ {
+   .main{
+     display: block;
+   }
+   .main img{
+     height: 400px;
+   }
+ }
+ .text-center
+ {
+   text-align: center;
+   color: darkblue;
+ }
+  
+  .dhoni-carrier{
+    display: block;
+   
+  }
+  
+  table td {
+    border: 2px solid black;
+  }
+  tr th{
+   border: 2px solid black;
+  }
+  table{
+   border-collapse: collapse;
+   width: 100%;
+  
+ }
+ th{
+   height: 50px;
+   width: 100px;
+ }
+ td{
+   height: 50px;
+   width: 100px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
